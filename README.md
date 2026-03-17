@@ -4,6 +4,14 @@ A production-ready asynchronous job processing backend built with **FastAPI**, *
 
 ---
 
+[🚀 Live API](https://async-job-processing-assignment-production.up.railway.app)
+
+[📄 Swagger UI](https://async-job-processing-assignment-production.up.railway.app/docs)
+
+[🎨 Frontend](https://async-job-processing-assignment-production.up.railway.app/static/index.html)
+
+
+
 ## Architecture
 
 ```
